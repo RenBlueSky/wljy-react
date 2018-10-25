@@ -1,0 +1,29 @@
+.Options_box{
+	width:25%;
+}
+
+.Options_box .options_link{
+	width:100%;
+	height:60px;
+}
+
+.Options_box .option_link .img_box{
+	width:100%;
+	height:40px;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.Options_box .option_link .img_box img{
+	width:40px;
+	height:40px;
+	background: #aaa;
+	border-radius:50%;
+}
+
+.Options_box .option_link .option_name{
+	text-align:center;
+	color:#333;
+	margin-top:4px;
+}
